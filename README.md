@@ -10,7 +10,7 @@ I am Tuan, web developer from VietNam. I have profound interest in website desig
 
 - 🤝 I’m looking for help with **Angular, ReactJS, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/letuan02](https://github.com/letuan02)
+- 👨‍💻 All of my projects are available at [https://github.com/LeVanTuan02](https://github.com/LeVanTuan02)
 
 - 💬 Ask me about **HTML, CSS**
 
@@ -27,9 +27,9 @@ I am Tuan, web developer from VietNam. I have profound interest in website desig
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=letuan02&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeVanTuan02&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=letuan02)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LeVanTuan02)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=letuan02)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LeVanTuan02)  
  
